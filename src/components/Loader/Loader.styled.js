@@ -10,6 +10,7 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
   height: 80vh;
+  z-index: 3;
 `;
 
 export const Spinner = styled.div`
